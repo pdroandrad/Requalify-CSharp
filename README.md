@@ -271,12 +271,4 @@ Todos os testes usam:
 - **WebApplicationFactory**
 - **Ambiente isolado**
 
-## 🔗 Deploy
-
-Campo reservado para:
-
-- **URL da API publicada**
-
-
-
 ---
