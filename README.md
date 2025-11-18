@@ -246,7 +246,7 @@ requalify-2025
 ## 🧪 Testes Automatizados
 
 ### 📍 Estrutura
-
+```
 Requalify.Tests/
  ├── Services/
  │    ├── ServicoUsuariosTests.cs
@@ -256,7 +256,7 @@ Requalify.Tests/
  └── Integrations/
       ├── ApiHealthCheckTests.cs
       └── VagasEndpointIntegrationTests.cs
-
+```
 ## 📌 Como rodar
 
 No terminal, execute:
